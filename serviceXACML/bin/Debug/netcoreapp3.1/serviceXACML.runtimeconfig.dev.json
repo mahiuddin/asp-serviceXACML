@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mahi Uddin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mahi Uddin\\.nuget\\packages"
+    ]
+  }
+}
